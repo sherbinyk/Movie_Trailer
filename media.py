@@ -1,5 +1,7 @@
 import webbrowser
 
+#A class to store my favorit movies titles, storylines, poster images and trailers.
+
 class Movie():
 
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
